@@ -4,7 +4,7 @@
 
 This project is to display our ability to refactor this e-commerce platform from the module 22 project so that it uses Redux.
 
-You may access the [deployed link here]()
+You may access the [deployed link here](https://redux-shop-22.herokuapp.com/)
 ![badge](https://img.shields.io/badge/license-MITLicense-brightorange)
 
 
@@ -32,7 +32,7 @@ Step 5: Navigate to the server folder and run "npm install"
 
 ## Usage
 
-The application is deployed at: 
+The application is deployed at: https://redux-shop-22.herokuapp.com/
 
 You can log in as test@freedompracticecoaching.com abc123
 
